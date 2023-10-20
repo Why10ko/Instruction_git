@@ -5,3 +5,7 @@
 git init
 ```
 
+Добавить отдельный файл:
+```sh
+git add name.file
+```
