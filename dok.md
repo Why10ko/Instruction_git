@@ -20,3 +20,12 @@ git add .
 git commit -m 'Message'
 ```
 
+Просмотр изменений:
+```sh
+git log
+```
+
+Перемещение на предыдущие сохраниения:
+```sh
+git checkout ...
+```
