@@ -15,3 +15,8 @@ git add name.file
 git add .
 ```
 
+Добавление коммита:
+```sh
+git commit -m 'Message'
+```
+
