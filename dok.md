@@ -9,3 +9,9 @@ git init
 ```sh
 git add name.file
 ```
+
+Добавить все файлы:
+```sh
+git add .
+```
+
