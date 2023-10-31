@@ -58,4 +58,5 @@ git merge branch_name
 ```sh
 git branch -d branch_name
 ```
-Строка для проверки
+
+Строка для проверки слияния
