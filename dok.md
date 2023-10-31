@@ -60,3 +60,8 @@ git branch -d branch_name
 ```
 
 Строка для проверки слияния
+
+Отправка изменений в удаленный репозиторий
+```sh
+git push origin master
+```
