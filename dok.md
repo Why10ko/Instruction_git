@@ -29,3 +29,6 @@ git log
 ```sh
 git checkout ...
 ```
+
+Darth Vader
+![Darth Vader](Darth_Vader.jpg)
