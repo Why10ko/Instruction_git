@@ -38,3 +38,8 @@ Darth Vader
 ```sh
 git checkout <branch_name>
 ```
+
+создание новой ветки
+```sh
+git branch <имя ветки>
+```
