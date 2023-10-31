@@ -53,3 +53,8 @@ git merge name
 ```sh
 git merge branch_name
 ```
+
+соманда удаления ветки
+```sh
+git branch -d branch_name
+```
