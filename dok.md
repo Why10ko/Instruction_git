@@ -48,3 +48,8 @@ git branch <имя ветки>
 ```sh
 git merge name
 ```
+
+Слияние ветки 
+```sh
+git merge branch_name
+```
