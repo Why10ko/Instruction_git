@@ -43,3 +43,8 @@ git checkout <branch_name>
 ```sh
 git branch <имя ветки>
 ```
+
+Слияние ветки 
+```sh
+git merge name
+```
