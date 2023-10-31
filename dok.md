@@ -33,12 +33,8 @@ git checkout ...
 Darth Vader
 ![Darth Vader](Darth_Vader.jpg)
 
-Отображение всех веток
-```sh
-git branch
-```
 
 Перемещение по веткам
 ```sh
-git branch name
+git checkout <branch_name>
 ```
