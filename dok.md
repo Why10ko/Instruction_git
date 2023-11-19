@@ -75,3 +75,9 @@ git push origin master
 git merge origin
 ```
 
+Получение изменений из удалённого репозитория
+```sh
+git pull
+
+
+```
