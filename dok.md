@@ -70,3 +70,8 @@ git pull
 git push origin master
 ```
 
+Слияние удаленного репозитория с локальным
+```sh
+git merge origin
+```
+
